@@ -1,2 +1,2 @@
-# Fury
-Fuzzy logic programming language
+# ROGUE
+ROGUE is a fuzzy logic programming language
